@@ -5,7 +5,12 @@ VisualStudioVersion = 17.3.32922.545
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FigureCalculation.Library", "FigureCalculation.Library\FigureCalculation.Library.csproj", "{FF47A492-3781-475B-8B0B-C12BBAE49380}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FigureSquareCalculationTest", "FigureSquareCalculationTest\FigureSquareCalculationTest.csproj", "{3353BEA7-31B3-4576-8A5E-FA3859D3C09E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FigureSquareCalculationTest", "FigureSquareCalculationTest\FigureSquareCalculationTest.csproj", "{3353BEA7-31B3-4576-8A5E-FA3859D3C09E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{59BC6FC6-9CB4-4EEE-A3A2-0E3505A6EF93}"
+	ProjectSection(SolutionItems) = preProject
+		ReadMe.md = ReadMe.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
